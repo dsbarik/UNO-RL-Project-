@@ -10,10 +10,9 @@ wheels/
 .venv
 .venv/
 
-# PyTorch Model Weights
-*.pth
-*.pt
-uno_agent.pth
+mlruns
+mlruns/
+mlflow.db
 
 # Python Cache & Bytecode
 __pycache__/
