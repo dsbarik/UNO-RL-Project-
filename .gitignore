@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.venv/
+
+# PyTorch Model Weights
+*.pth
+*.pt
+uno_agent.pth
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files (Mac)
+.DS_Store
+.DS_Store?
+._*
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Streamlit (if you deploy locally or cache things)
+.streamlit/
