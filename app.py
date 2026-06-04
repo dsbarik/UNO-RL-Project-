@@ -216,7 +216,7 @@ st.markdown("""
 /* Base */
 .stApp { font-family: 'Inter', -apple-system, sans-serif !important; }
 .block-container {
-    padding-top: 1.5rem !important;
+    padding-top: 4.5rem !important;
     padding-bottom: 1.5rem !important;
     max-width: 1100px !important;
 }
